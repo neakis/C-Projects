@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1611677748 source:c:\users\nerijus\desktop\nd\deletedata.c
+	"timetable.h"
+
+1611677479 c:\users\nerijus\desktop\nd\timetable.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<assert.h>
+
+1611677754 source:c:\users\nerijus\desktop\nd\enterdata.c
+	"timetable.h"
+
+1611677734 source:c:\users\nerijus\desktop\nd\main.c
+	"timetable.h"
+
+1611677737 source:c:\users\nerijus\desktop\nd\miscdata.c
+	"timetable.h"
+
+1611677744 source:c:\users\nerijus\desktop\nd\save&loaddata.c
+	"timetable.h"
+
+1611697785 source:c:\users\nerijus\desktop\timetable\deletedata.c
+	"./timetable.h"
+
+1611697785 c:\users\nerijus\desktop\timetable\timetable.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<assert.h>
+	<time.h>
+
+1611697784 source:c:\users\nerijus\desktop\timetable\miscdata.c
+	"./timetable.h"
+
+1611695497 source:c:\users\nerijus\desktop\timetable\save&loaddata.c
+	"./timetable.h"
+
+1611675668 source:c:\users\nerijus\desktop\timetable\timetable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<assert.h>
+
+1611697785 source:c:\users\nerijus\desktop\timetable\editdata.c
+	"./timetable.h"
+
+1611697785 source:c:\users\nerijus\desktop\timetable\enterdata.c
+	"./timetable.h"
+
+1611695992 source:c:\users\nerijus\desktop\timetable\main.c
+	"./timetable.h"
+
+1611697785 source:c:\users\nerijus\desktop\timetable\logging.c
+	"./timetable.h"
+
+1611688780 source:c:\users\nerijus\desktop\timetable\sortdata.c
+	"./timetable.h"
+
+1611697784 source:c:\users\nerijus\desktop\timetable\unittests.c
+	"./timetable.h"
+
+1611694025 c:\users\nerijus\desktop\timetable\binary.h
+	<stdio.h>
+	<stdlib.h>
+
+1611696353 source:c:\users\nerijus\desktop\timetable\save&load.c
+	"./timetable.h"
+
+1611697808 source:c:\users\neakis\downloads\timetable 2nd version\timetable\main.c
+	"./timetable.h"
+
+1611697963 c:\users\neakis\downloads\timetable 2nd version\timetable\timetable.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<assert.h>
+	<time.h>
+
+1611697784 source:c:\users\neakis\downloads\timetable 2nd version\timetable\unittests.c
+	"./timetable.h"
+
+1611697962 source:c:\users\neakis\downloads\timetable 2nd version\timetable\deletedata.c
+	"./timetable.h"
+
+1611697962 source:c:\users\neakis\downloads\timetable 2nd version\timetable\editdata.c
+	"./timetable.h"
+
+1611697961 source:c:\users\neakis\downloads\timetable 2nd version\timetable\enterdata.c
+	"./timetable.h"
+
+1611697964 source:c:\users\neakis\downloads\timetable 2nd version\timetable\logging.c
+	"./timetable.h"
+
+1670079016 source:c:\users\neakis\downloads\timetable 2nd version\timetable\miscdata.c
+	"./timetable.h"
+
+1611697973 source:c:\users\neakis\downloads\timetable 2nd version\timetable\save&load.c
+	"./timetable.h"
+
